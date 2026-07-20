@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Vel (aka Velions Nick's) 👋</h1>
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,7 +17,7 @@
 
 ### 📱 Device Stack & Ecosystem
 
-#### 🧪 Oprek & Testing Lab (The Sandboxes)
+#### 🧪 Custom & Testing Lab (The Sandboxes)
 
 | Device | Codename | Role | Status |
 | :--- | :--- | :--- | :--- |
