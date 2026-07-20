@@ -39,17 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats & Technologies
-<p align="center">
-  <img src="https://vercel.app" alt="Vel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev" alt="My Skills" />
-</p>
-
----
-
 ### ⚡ Random Fact
 ```bash
 $ adb shell "su -c 'rm -rf /data/system/users/0/password.key'" # Don't try this at home.
